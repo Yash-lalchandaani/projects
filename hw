@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>HTML LAYOUTS USING DIV</title>
+</head>
+<body>
+<div style="width:100% ;  ">
+<div style="background-color:yellow;width:80%;height:90px;float:center"; > 
+<img src="green leaf.jpg"  width="75" height="100">
+<h3  style=text-align:center;  >Green leafed Trees</h3>
+<h4 style=text-align:center;>photo by <u>ABC</u></h4>
+</div>
+<div style="background-color:yellow; width:80%; HEIGHT:90px ;float:center">
+<h3 style=text-align:center;   img src="brown mountain.jpg"  width="500" height="600">Landscape Photography Of Brown Mountain</h3>
+<h4 style=text-align:center;>photo by <u>PQR</u></h4>
+</div>
+<div style="background-color:yellow ;height:90px        ;width: 80%    ;   float:center">
+<h3 style=text-align:center; img src="img src=starry night.jpg"  width="500" height="600" >Blue Starry Night</h3>
+<h4 style=text-align:center;>photo by <u>XYZ</u></h4>
+</div>
+<div style="background-color:yellow;        ;width:80%;          float:center">
+
+</div>
+<div style="background-color:yellow; height:90px;  width:80%;float:center">
+<h3  style=text-align:center; img src="island.jpg"  width="500" height="600">Aerial Island and Beaches</h3>
+<h4 style=text-align:center;>photo by <u>IJK</u></h4>
+</div>
+</div>
+</body>
+</html>
